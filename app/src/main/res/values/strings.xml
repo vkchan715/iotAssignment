@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">iotAssignment</string>
+    <string name="switch_default">On</string>
+    <string name="iconDesc">Air Conditioner Icon</string>
+    <string name="setAutoOn">Set Auto On</string>
+    <string name="swOnAt">Switch On At   :</string>
+    <string name="swOffAt">Switch Off At : </string>
+    <string name="tempUnit">°C</string>
+    <string name="txtNotify">Notify Me</string>
+    <string name="detected_temp">When Detected : </string>
+    <string name="btnSave">Save</string>
+    <string name="btnClear">Clear All</string>
+    <string name="envirTempe">Environment Temperature (°C):</string>
+    <string name="tempeValue">-</string>
+</resources>
